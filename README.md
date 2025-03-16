@@ -21,6 +21,7 @@ This project focuses on analyzing customer churn data from a telecom company. Th
 
 ### 4️⃣ Load Data into MySQL
 - Place `cleaned_customer_churn_v2.csv` in MySQL’s **server/uploads** folder (or a directory based on your setup).
+  (For me the path was "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/cleaned_customer_churn_v2.csv")
 - Open MySQL and create a new database.
 - Run all queries from `project.sql` to extract meaningful insights.
 
