@@ -1,3 +1,5 @@
+"""This file is used to Drop Unnecessary columns."""
+
 import pandas as pd
 
 # Load the CSV file
